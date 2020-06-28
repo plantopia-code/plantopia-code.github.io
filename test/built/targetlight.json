@@ -20,7 +20,7 @@
     "autoRun": true
   },
   "versions": {
-    "target": "2.0.2",
+    "target": "2.0.3",
     "pxt": "5.6.4"
   },
   "blocksprj": {
